@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>HOBBIES</title>
+</head>
+
+<body background=".jpg">
+<font color=skyblue>
+<h1 align=center>MY PERSONAL PROFILE</h1>
+</font>
+<hr>
+<center>
+<table border=10 bgcolor=lightblue width=50%>
+<th><a href="Homepageee.html">HOME</a></th>
+<th><a href="fambg.html">FAMILY BACKGROUND|</a></th>
+<th><a href="SkillsandTest.html">SKILLS/TALENTS</a></th>
+<th><a href="strngth.html">STRENGHT AND WEAKNESSES</a></th>
+<th><a href="career.html">CAREER OR JOB</a></th>
+</table>
+</center>
+<hr>
+<center>
+<table border=5 bgcolor=navy cellpadding=5 width=50%>
+<td>
+<marquee behavior="scroll" direction="right">
+<img src= "hobby5.jpg" height=400>
+<img src= "hobby4.jpg" height=400>
+<img src= "hobby3.png" height=400>
+<img src= "hobby2.png" height=400>
+<img src= "hobby1.jpg" height=400>
+<img src= "hobby.jpg" height=400>
+</marquee>
+</td>
+</table>
+</center>
+<font color=navy>
+<h1> MY HOBBIES </h1>
+<ul>
+<li>Basketball
+<li>Cycling
+<li>Gaming
+<li>Watching Anime
+<li>Listening to Music (singing)
+<li>Sleeping
+</body>
+</html>

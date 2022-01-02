@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>My Skills & Talents</title>
+</head>
+
+<body background=".jpg">
+<font color=skyblue>
+<h1 align=center>MY PERSONAL PROFILE</h1>
+</font>
+<hr>
+<center>
+<table border=10 bgcolor=lightblue width=50%>
+<th><a href="Homepageee.html">HOME</a></th>
+<th><a href="fambg.html">FAMILY BACKGROUND</a></th>
+<th><a href="hobby.html">HOBBIES</a></th>
+<th><a href="strngth.html">STRENGHT AND WEAKNESSES</a></th>
+<th><a href="career.html">CAREER OR JOB</a></th>
+</table>
+</center>
+<hr>
+<font color=teal>
+<marquee><h2> Traveling, Wacthing, Anime, Sports, Video Games, Sleeping, Eating, Pets</h2> 
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>My Strengths and Weaknesses</title>
+</head>
+
+<body background=".jpg">
+<font color=skyblue>
+<h1 align=center>MY PERSONAL PROFILE</h1>
+</font>
+<hr>
+<center>
+<table border=10 bgcolor=lightblue width=50%>
+<th><a href="Homepageee.html">HOME</a></th>
+<th><a href="fambg.html">FAMILY BACKGROUND</a></th>
+<th><a href="hobby.html">HOBBIES</a></th>
+<th><a href="SkillsandTest.html">SKILLS AND TALENTS</a></th>
+<th><a href="career.html">CAREER OR JOB</a></th>
+</table>
+</center>
+<hr>
+<font color=teal>
+<h3 align=center>MY STRENGTH</h3>
+<h4><center>My strenght is I am capable of learning new things in the field of my course. I can easily follow instructions and directions on how to create a program. Also when I have difficulties I observe and assess what am I lacking and what do i need to develop. I am also exploring the field of IT, like watching videos on youtube, facebook and other social media platforms in order to maximize and also expand my learning about my field.
+<h3 align=center>MY WEAKNESS</h3>
+<h4><center>My weakness in the field of IT is I am literally a complete beginner. And honesty, I know I have a lot to learn and experience for me to become a great and passionate IT student. Another thing is I am easily distracted when I encounter problems even though I follow the instructions correctly. I am really weak when the difficulty of examples or acitivities are high enough for my experience. 
+</body>
+</html>
